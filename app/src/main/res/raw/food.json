@@ -1,0 +1,220 @@
+[
+    {
+      "name":"Fruits",
+      "delivery": "Available",
+      "items": "Apple | Orange | Papaw | Watermelon",
+      "delivery_charge": 100,
+      "image":"https://i.ibb.co/58JJNsk/fruits.jpg",
+
+      "menus": [
+        {
+          "name": "Apple",
+          "rating": "★★★",
+          "price": 120,
+          "url": "https://i.ibb.co/VCggcpj/apple.jpg"
+        },
+        {
+          "name": "Orange",
+          "rating": "★★★★★",
+          "price": 80,
+          "url": "https://i.ibb.co/Qfddc9p/orange.jpg"
+        },
+        {
+          "name": "Papaw",
+          "rating": "★★★",
+          "price": 100,
+          "url": "https://i.ibb.co/nMWKvMZ/papaw.jpg"
+        },
+        {
+          "name": "Watermelon",
+          "rating": "★★★",
+          "price": 200,
+          "url": "https://i.ibb.co/bvnqHF0/watermelon.jpg"
+        }
+      ]
+    },
+  {
+    "name":"Vegetables",
+    "delivery": "Available",
+    "items": "Carrot | Leek | Broccoli | Salad | Beans | Cauliflower",
+    "delivery_charge": 100,
+    "image":"https://i.ibb.co/JFjgRN2/vegetables.jpg",
+
+    "menus": [
+      {
+        "name": "Carrot",
+        "rating": "★★★",
+        "price": 160,
+        "url": "https://i.ibb.co/2vg4FyY/carrot.jpg"
+      },
+      {
+        "name": "Leek",
+        "rating": "★★★",
+        "price": 300,
+        "url": "https://i.ibb.co/xHRbRzh/leek.jpg"
+      },
+      {
+        "name": "Broccoli",
+        "rating": "★★★",
+        "price": 250,
+        "url": "https://i.ibb.co/rMkWWGg/broccolli.jpg"
+      },
+      {
+        "name": "Eggplant",
+        "rating": "★★★",
+        "price": 120,
+        "url": "https://i.ibb.co/hKMwhH9/brinjal.jpg"
+      },
+      {
+        "name": "Beans",
+        "rating": "★★★",
+        "price": 150,
+        "url": "https://i.ibb.co/v3Rs3gc/beans.jpg"
+      },
+      {
+        "name": "Cauliflower",
+        "rating": "★★★",
+        "price": 90,
+        "url": "https://i.ibb.co/CtXXwTS/cauliflower.jpg"
+      }
+      ]
+    },
+  {
+    "name":"Seafood",
+    "delivery": "Available",
+    "items": "Salmon | Crab | Tilapia | Clams | Prawn | Squid ",
+    "delivery_charge": 100,
+    "image":"https://i.ibb.co/9GN96mB/seafood.jpg",
+
+    "menus": [
+      {
+        "name": "Salmon",
+        "rating": "★★★",
+        "price": 350,
+        "url": "https://i.ibb.co/WW78tWk/salmon.jpg"
+      },
+      {
+        "name": "Crab",
+        "rating": "★★★",
+        "price": 500,
+        "url": "https://i.ibb.co/P9PgSrF/crab.jpg"
+      },
+      {
+        "name": "Tilapia",
+        "rating": "★★★",
+        "price": 350,
+        "url": "https://i.ibb.co/KVRpftc/tilapia.jpg"
+      },
+      {
+        "name": "Clams",
+        "rating": "★★★",
+        "price": 300,
+        "url": "https://i.ibb.co/N7kJH04/clams.jpg"
+      },
+      {
+        "name": "Prawn",
+        "rating": "★★★",
+        "price": 370,
+        "url": "https://i.ibb.co/PZpq7wY/prawn.jpg"
+      },
+      {
+        "name": "Squid",
+        "rating": "★★★",
+        "price": 500,
+        "url": "https://i.ibb.co/j6MqBbX/squid.jpg"
+      }
+    ]
+  },
+  {
+    "name":"Meats",
+    "delivery": "Available",
+    "items": "Beef | Mutton | Chicken | Duck | Liver | Egg ",
+    "delivery_charge": 200,
+    "image":"https://i.ibb.co/PwXV8N9/meat.jpg",
+
+    "menus": [
+      {
+        "name": "Beef",
+        "rating": "★★★",
+        "price": 1500,
+        "url": "https://i.ibb.co/DfPWJ74/beef.jpg"
+      },
+      {
+        "name": "Mutton",
+        "rating": "★★★",
+        "price": 1500,
+        "url": "https://i.ibb.co/RBdJ6S1/mutton.jpg"
+      },
+      {
+        "name": "Chicken",
+        "rating": "★★★",
+        "price": 1200,
+        "url": "https://i.ibb.co/rxXXV31/chicken.jpg"
+      },
+      {
+        "name": "Duck",
+        "rating": "★★★",
+        "price": 1500,
+        "url": "https://i.ibb.co/FbyLkkv/duck.jpg"
+      },
+      {
+        "name": "Liver",
+        "rating": "★★★",
+        "price": 1400,
+        "url": "https://i.ibb.co/kcRSRXq/liver.jpg"
+      },
+      {
+        "name": "Egg",
+        "rating": "★★★",
+        "price": 60,
+        "url": "https://i.ibb.co/4Pn0bQ3/egg.jpg"
+      }
+    ]
+  },
+  {
+    "name":"Spices",
+    "delivery": "Available",
+    "items": "Cardamom | Cinnamon | Clove | Black Pepper | Garlic | Ginger",
+    "delivery_charge": 100,
+    "image":"https://i.ibb.co/SBScPX4/spices.jpg",
+
+    "menus": [
+      {
+        "name": "Cardamom",
+        "rating": "★★★",
+        "price": 700,
+        "url": "https://i.ibb.co/QdLcTbc/cardamom.jpg"
+      },
+      {
+        "name": "Cinnamon",
+        "rating": "★★★",
+        "price": 800,
+        "url": "https://i.ibb.co/HDHN51p/cinnamon.jpg"
+      },
+      {
+        "name": "Clove",
+        "rating": "★★★",
+        "price": 800,
+        "url": "https://i.ibb.co/4jvnkVC/clove.jpg"
+      },
+      {
+        "name": "Black Pepper",
+        "rating": "★★★",
+        "price": 1200,
+        "url": "https://i.ibb.co/LdRR2xx/black-Pepper.jpg"
+      },
+      {
+        "name": "Garlic",
+        "rating": "★★★",
+        "price": 600,
+        "url": "https://i.ibb.co/p6Tkff2/garlic.jpg"
+      },
+      {
+        "name": "Ginger",
+        "rating": "★★★",
+        "price": 600,
+        "url": "https://i.ibb.co/Fq0L296/ginger.jpg"
+      }
+    ]
+  }
+]
